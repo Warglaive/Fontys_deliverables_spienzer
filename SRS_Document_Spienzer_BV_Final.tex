@@ -1,0 +1,61 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{a4paper}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+\title{
+    Software Requirements Specification for Analytics-Driven SEO \& SEA Optimization\\[1ex] % Title
+    \author{Svetoslav Stoyanov\\Student Number: 3793222}
+    \date{Internship Period: February 2024 - June 2024}
+    \large Spienzer B.V.\\ % Company Name
+    \large Fontys University of Applied Sciences, Venlo\\03.03.2024 % University Name
+}
+\begin{document}
+
+\maketitle
+\newpage % This command forces a new page
+
+\section{Introduction}
+This document outlines the requirements for developing a software system that integrates with Google Analytics to provide website and per-page analytics functionalities, generates a priority ranking algorithm for website optimization, and predicts web traffic per page.
+
+\subsection{Product Perspective}
+This software is designed for Spienzer B.V., a company specializing in SEO and SEA (Search Engine Optimization and Search Engine Advertising).
+
+\subsubsection{Product Functions}
+\begin{itemize}
+    \item Integrate with Google Analytics to access relevant data.
+    \item Correlate search volume, SERP (Search Engine Results Page) position, and web traffic data for each webpage.
+    \item Provide a user interface (frontend) for website and per-page analytics visualization.
+    \item Implement a backend system to process and store data.
+    \item Develop an algorithm to prioritize pages needing optimization based on integrated data.
+    \item Develop an algorithm to predict potential number of visitors per webpage.
+\end{itemize}
+
+\subsection{User Characteristics}
+The primary users are marketing employees, particularly those in the IT and SEO/SEA departments.
+Concrete user groups, personas and user stories to be created.
+\subsection{General Constraints}
+\begin{itemize}
+    \item The system should be compatible with major web browsers and operating systems.
+    \item Performance and scalability should be sufficient to handle the expected data volume.
+    \item Security measures should be implemented to protect sensitive data.
+\end{itemize}
+
+\section{Specific Requirements}
+\subsection{Functional Requirements}
+\subsubsection{Google Analytics Integration}
+The system shall seamlessly integrate with the Google Analytics API.
+
+\subsection{Non-Functional Requirements}
+\subsubsection{Performance}
+The system should be able to handle real-time data updates efficiently.
+
+\section{Design Constraints}
+\subsection{Hardware and Software Interfaces}
+The system should be compatible with Spienzer's existing infrastructure and software tools.
+\newpage % Assuming you want the word count on a new page or adjust placement as needed
+\section*{Document Metadata}
+\textbf{Word Count}: XXXX words.
+
+\end{document}
