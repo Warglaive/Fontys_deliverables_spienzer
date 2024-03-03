@@ -18,15 +18,17 @@
 \date{26 February 2024}
 
 \begin{document}
-
+% Use Roman numerals for the pages following the title page
+\pagenumbering{roman}
 \maketitle
-\newpage
-\thispagestyle{empty} % Optional: Prevents page number from being printed on this page
+\thispagestyle{empty}
+\clearpage
+
+
 
 %START
 \maketitle
 \newpage
-\thispagestyle{empty} % Optional: Prevents page number from being printed on this page
 
 % Information Page title
 \begin{center}
@@ -99,7 +101,8 @@ Post Office Box 141, 5900 AC Venlo, the Netherlands
 
 \tableofcontents
 \newpage
-
+\setcounter{page}{1}
+\pagenumbering{arabic}
 \section{Project Assignment}
 \subsection{Context}
 Spienzer B.V. operates at the intersection of SEO (Search Engine Optimization) and SEA (Search Engine Advertising), providing innovative tools for webpage’s content workflow automation, position ranking, and advertising optimization. With a focus on leveraging AI for content generation, the company seeks to enhance the visibility and performance of client websites on search engines. Currently, Spienzer B.V. employs a small team, with the majority in the IT department, serving businesses aiming for improved Google search rankings.
