@@ -14,7 +14,7 @@
 \begin{document}
 
 \maketitle
-\newpage % This command forces a new page
+\newpage 
 
 \section{Introduction}
 This document outlines the requirements for developing a software system that integrates with Google Analytics to provide website and per-page analytics functionalities, generates a priority ranking algorithm for website optimization, and predicts web traffic per page.
@@ -35,6 +35,7 @@ This software is designed for Spienzer B.V., a company specializing in SEO and S
 \subsection{User Characteristics}
 The primary users are marketing employees, particularly those in the IT and SEO/SEA departments.
 Concrete user groups, personas and user stories to be created.
+
 \subsection{General Constraints}
 \begin{itemize}
     \item The system should be compatible with major web browsers and operating systems.
@@ -44,16 +45,61 @@ Concrete user groups, personas and user stories to be created.
 
 \section{Specific Requirements}
 \subsection{Functional Requirements}
+
 \subsubsection{Google Analytics Integration}
-The system shall seamlessly integrate with the Google Analytics API.
+\begin{itemize}
+    \item The system shall seamlessly integrate with Google Analytics API.
+    \item It shall be able to retrieve relevant data points such as number of visitors per webpage, time spent on given webpage per user or on average.
+\end{itemize}
 
+\subsubsection{Analytics Functionality}
+\begin{itemize}
+    \item The frontend shall provide users with a clear and intuitive interface to visualize website and per-page analytics data.
+    \item Users should be able to filter and sort data by various criteria.
+    \item The system shall allow users to export data in various formats (e.g., CSV, Excel) for further analysis.
+\end{itemize}
+
+\subsubsection{Priority Ranking Algorithm}
+\begin{itemize}
+    \item The algorithm shall consider factors such as search volume, SERP position, current traffic, and potential impact of optimization to rank the top 10 pages requiring modification.
+\end{itemize}
+
+\subsubsection{Web Traffic Predicting Algorithm}
+\begin{itemize}
+    \item The algorithm shall consider factors such as search volume, CTR (Click-Through Rate), SERP position.
+\end{itemize}
+\newpage 
 \subsection{Non-Functional Requirements}
-\subsubsection{Performance}
-The system should be able to handle real-time data updates efficiently.
 
+\subsubsection{Performance}
+\begin{itemize}
+    \item The system should be able to handle real-time data updates efficiently.
+    \item Page loading times and data visualization should be optimized for a smooth user experience.
+\end{itemize}
+
+\subsubsection{Usability}
+\begin{itemize}
+    \item The user interface shall be intuitive and easy to learn for users with varying levels of technical expertise.
+    \item Clear documentation and manuals should be provided to guide users through the system's functionalities.
+\end{itemize}
+
+\subsubsection{Reliability}
+\begin{itemize}
+    \item The system should be highly reliable with minimal downtime and error occurrences.
+\end{itemize}
+\newpage 
 \section{Design Constraints}
+
 \subsection{Hardware and Software Interfaces}
-The system should be compatible with Spienzer's existing infrastructure and software tools.
+\begin{itemize}
+    \item The system should be compatible with Spienzer's existing infrastructure and software tools.
+\end{itemize}
+
+\subsection{Other Constraints}
+\begin{itemize}
+    \item The development process should adhere to Agile Scrum methodology principles.
+\end{itemize}
+
 \newpage % Assuming you want the word count on a new page or adjust placement as needed
 \section*{Document Metadata}
 \textbf{Word Count}: XXXX words.
