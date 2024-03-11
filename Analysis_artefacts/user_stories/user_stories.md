@@ -26,7 +26,7 @@ As a user, I want to be able to see predicted web traffic data in order to see h
 - [ ] The user can view predictions for different pages or the whole site.
 
 ### Tasks
-- [ ] Develop a web traffic prediction model.
+- [ ] Implement a web traffic prediction model.
 - [ ] Integrate the prediction model into the dashboard.
 - [ ] Design a visualization for the predicted data.
 
