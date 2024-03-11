@@ -40,10 +40,16 @@
 **Extensions:**<br />
 3a. View predicted web traffic data:
    1. Content Creator chooses to view predicted web ttraffic data.
-   2. System displays the prediction(s).<br />
+   2. System displays the prediction(s).
+
+<!-- -->
+
 3b. Identify pages needing optimization:
    1. Content Creator chooses to identify pages needing optimization.
-   2. System displays the outcome.<br />
+   2. System displays the outcome.
+
+<!-- -->
+
 3c. Export Data:
    1. Content Creator chooses to export the webpage data to a file.
    2. System prompts for file type.
