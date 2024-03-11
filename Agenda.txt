@@ -1,0 +1,4 @@
+1. Present created artefacts - user stories, use case diagram, use case description
+2. Present derived tasks from the user stories.
+3. Mention front-end project issues.(To be addressed as soon as initial Analysis and Design artefacts are complete).
+4. Showcase existing database via ER-Diag.
