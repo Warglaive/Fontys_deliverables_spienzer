@@ -20,7 +20,7 @@
    2. System displays the webpage analysis 
 
 **Exceptions:**
-4. Sytem message: "No data is available".
+4. Sytem message: "No data is available".<br />
 4.1 Use case ends here.
 
 
@@ -59,7 +59,7 @@
    6. System presents the file.
       
 **Exceptions:**
-2. Sytem message: "No data is available".
+2. Sytem message: "No data is available".<br />
 2.1 Use case ends here.
 
 ## Use Case 3: View Search Volume and SERP Ranking Data
@@ -75,7 +75,7 @@
 2. The system shows SERP ranking and search volume for the primary keyword.
 
 **Exceptions:**
-2. Sytem message: "No data is available".
+2. Sytem message: "No data is available".<br />
 2.1 Use case ends here.
 
 ## Use Case 4: View Real Web Traffic Data
@@ -91,7 +91,7 @@
 2. The system retrieves and displays traffic data for via Google Analytics API integration.
 
 **Exceptions:**
-2. Sytem message: "No data is available".
+2. Sytem message: "No data is available".<br />
 2.1 Use case ends here.
 
 ## Use Case 5: Identify Pages Needing Optimization
@@ -115,12 +115,12 @@
 
 **Pre-conditions:** Actor has chosen to view webpage performance.
 
-**Main Flow:**
+**Scenario:**
 1. Website Owner requests predicted traffic data.
 2. The system displays traffic predictions for the next month.
 
 **Exceptions:**
-2. Sytem message: "Data is still gathering, try again later".
+2. Sytem message: "Data is still gathering, try again later".<br />
 2.1 Use case ends here.
 
 ## Use Case 7: Export Data
@@ -140,8 +140,8 @@
 6. System provides the file.
 
 **Exceptions:**
-6. Sytem message: "Invalid location!".
-6.1 Use case ends here.
-6. Sytem message: "Invalid file name!".
+6. Sytem message: "Invalid location!".<br />
+6.1 Use case ends here.<br />
+6. Sytem message: "Invalid file name!".<br />
 6.1 Use case ends here.
 
