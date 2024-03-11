@@ -1,4 +1,9 @@
 1. Present created artefacts - user stories, use case diagram, use case description
 2. Present derived tasks from the user stories.
-3. Mention front-end project issues.(To be addressed as soon as initial Analysis and Design artefacts are complete).
-4. Showcase existing database via ER-Diag.
+3. Mention front-end project issues.
+4. Manager asked me to solve old/deprecated dependency issues on the front-end(To be addressed as soon as initial Analysis and Design artefacts are complete).
+5. Showcase existing database via ER-Diag.
+
+Then:
+1. Create simple wireframes.
+2. The front-end architecture and functionality to be made by me, while a designated UI/UX designer will create the design(colors, fonts, button margin, padding and other styles)
