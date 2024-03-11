@@ -34,7 +34,7 @@
 
 **Scenario:**
 1. Content Creator selects a webpage from the list.
-2. The system displays detailed performance metrics for the selected webpage.
+2. The system **displays search results & SERP ranking data** and **real web traffiic data** for the selected webpage.
 3. Content Creator views the data.
 
 **Extensions:**<br />
