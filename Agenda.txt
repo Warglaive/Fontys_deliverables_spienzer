@@ -1,12 +1,13 @@
-1. Present created artefacts - user stories, use case diagram, use case description
-2. Present derived tasks from the user stories.
-3. Mention front-end project issues.
-4. Manager asked me to solve old/deprecated dependency issues on the front-end(To be addressed as soon as initial Analysis and Design artefacts are complete).
-5. Showcase existing database via ER-Diag.
+1. Present created artefacts - user groups, user personas, user stories, use case diagram, use case descriptions.
+2. All user groups connected to the "parent" use case?
+3. Present derived tasks from the user stories.
+4. Mention front-end project issues.
+5. Supervisor asked me to solve old/deprecated dependency issues on the front-end (To be addressed as soon as initial Analysis and Design artefacts are complete).
+6. Showcase existing database via ER-Diag.
 
 Then:
 1. Create simple wireframes.
-2. The front-end architecture and functionality to be made by me, while a designated UI/UX designer will create the design(colors, fonts, button margin, padding and other styles).
+2. The front-end architecture and functionality to be made by me, while a designated UI/UX designer will create the design (colors, fonts, button margin, padding and other styles).
 
 Later:
 Update Project plan and SRS according to analysis phase and research.
