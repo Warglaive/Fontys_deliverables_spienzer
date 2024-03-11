@@ -19,7 +19,7 @@
    1. SEO Specialist chooses a webpage
    2. System displays the webpage analysis 
 
-**Exceptions:**
+**Exceptions:**<br />
 4. Sytem message: "No data is available".<br />
 4.1 Use case ends here.
 
@@ -58,7 +58,7 @@
    5. Content Creator inputs the data.
    6. System presents the file.
       
-**Exceptions:**
+**Exceptions:**<br />
 2. Sytem message: "No data is available".<br />
 2.1 Use case ends here.
 
@@ -74,7 +74,7 @@
 1. Content Creator accesses the dashboard for specific webpage analytics.
 2. The system shows SERP ranking and search volume for the primary keyword.
 
-**Exceptions:**
+**Exceptions:**<br />
 2. Sytem message: "No data is available".<br />
 2.1 Use case ends here.
 
@@ -90,7 +90,7 @@
 1. SEA Manager requests to view web traffic data.
 2. The system retrieves and displays traffic data for via Google Analytics API integration.
 
-**Exceptions:**
+**Exceptions:**<br />
 2. Sytem message: "No data is available".<br />
 2.1 Use case ends here.
 
@@ -119,7 +119,7 @@
 1. Website Owner requests predicted traffic data.
 2. The system displays traffic predictions for the next month.
 
-**Exceptions:**
+**Exceptions:**<br />
 2. Sytem message: "Data is still gathering, try again later".<br />
 2.1 Use case ends here.
 
@@ -139,7 +139,7 @@
 5. Digital Marketing Analyst inputs the data.
 6. System provides the file.
 
-**Exceptions:**
+**Exceptions:**<br />
 6. Sytem message: "Invalid location!".<br />
 6.1 Use case ends here.<br />
 6. Sytem message: "Invalid file name!".<br />
