@@ -1,5 +1,7 @@
 # Actual User Groups for Analytics-Driven SEO & SEA Optimization Project
 
+- Each user group is considered to be in the age range from 18 to 80 years old and to be technically literate.
+
 ## Website Owners and Administrators
 - Primary beneficiaries interested in website optimization for better search engine visibility.
 
