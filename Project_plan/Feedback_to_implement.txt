@@ -1,0 +1,5 @@
+Some things to add:
+
+We should analyse visitors separately based on whether they come from Organic or Paid traffic.
+For a specific URL, visitors will not only come to this webpage through traffic from any of the primary or secondary keywords. So it would be good to also have the capability to see how many visitors are coming from non-primary/secondary keywords and to see what keywords they actually come from then. And maybe we should even add them to the keyword list for that URL as well (apparently it is an important keyword for that page then).
+Companies will have multiple projects in the system. These projects might be linked to multiple different Google Analytics accounts. And within each Google Analytics account you might have multiple domains. So there needs to be a proper process to link each Spienzer project to a specific domain property in a specific Google Analytics account.
