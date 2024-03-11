@@ -1,0 +1,6 @@
+1. Can we predict "buy" intent keywords.
+2. Find AI algorithm that predicts "Buy" intent.
+3. Visitors count.
+4. What does google prioritize in "Search intent" . What should I write about so it ranks higher?
+5. Connect google analytics account to a project. Check if google analytics and adwords are the same.
+6. Ask tim for access to the Spienzer repo.
