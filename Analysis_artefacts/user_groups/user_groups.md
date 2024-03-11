@@ -7,7 +7,7 @@
 - Professionals focused on improving website ranking on SERPs, requiring detailed analytics and optimization insights.
 
 ## SEA Managers
-- Specialists in search engine advertising, using the software to optimize ad spend based on web performance data.
+- Specialists in search engine advertising, using the software to optimize ad spend, based on web performance data.
 
 ## Content Creators and Marketers
 - Individuals responsible for website content, leveraging analytics to guide content strategy and optimization.
