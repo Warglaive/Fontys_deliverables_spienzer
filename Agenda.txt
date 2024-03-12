@@ -8,6 +8,6 @@
 Then:
 1. Create simple wireframes.
 2. The front-end architecture and functionality to be made by me, while a designated UI/UX designer will create the design (colors, fonts, button margin, padding and other styles).
-
+3. Make a call (GET/POST) to Google Analytics
 Later:
 Update Project plan and SRS according to analysis phase and research.
