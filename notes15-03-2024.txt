@@ -5,3 +5,9 @@ what are the conditions for the priority pages?
 2. Potential - search volume, predicted volume(SERP rank), actual volume, potential volume - calculate the gap.
 Visualize as a table (or find a better way).
 Date logging for changes on optimized page(s).
+
+
+On top:
+A page (Name or URL)
+	- All page URLs
+		- Individual URL
