@@ -1,0 +1,5 @@
+get info from SEO Funnel to be displayed in the new page.
+send dependency list
+what are the conditions for the priority pages?
+1. Priority problem? - type of page(AI), page(keyword) volume, positioning, buying intent (AI)(content word "buy" or similar).
+2. Potential - search volume, predicted volume(SERP rank), actual volume, potential volume - calculate the gap.
