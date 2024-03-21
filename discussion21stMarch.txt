@@ -1,0 +1,5 @@
+Webpages performance is same as SEO Funnel.
+Design how the GA will be connected to the project.
+Check repo of Nikola.
+Check per page GA keywords, from which pages users arrived and if we can see the keywords they used.
+Check which libraries are used within Vue.js (if possible)
