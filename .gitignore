@@ -300,3 +300,4 @@ TSWLatexianTemp*
 # Uncomment the next line to have this generated file ignored.
 #*Notes.bib
 Analysis_artefacts/use_case_diag/.$use_case_diag.drawio.bkp
+*.bkp
