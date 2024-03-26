@@ -1,0 +1,4 @@
+1. Show Google analytics and Google Search console analysis.
+2. Based on that - create diagrams to display how Google analytics would integrate into the existing system.
+3. After design artefacts are complete, start implementation based on artefacts.
+4. Spienzer mentor might not attend.
