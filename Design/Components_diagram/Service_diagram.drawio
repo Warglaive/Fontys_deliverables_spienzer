@@ -1,17 +1,17 @@
-<mxfile host="Electron" modified="2024-03-26T16:58:19.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="aGzC1Mb8K713GQ4eDAeh" version="24.1.0" type="device">
+<mxfile host="Electron" modified="2024-03-26T18:26:41.576Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="NNX9VdnGJ6Cvx0RdjmkR" version="24.1.0" type="device">
   <diagram name="Page-1" id="FBYsdal8GXvZE6SGu7Mt">
     <mxGraphModel dx="1860" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="IR-27HBc0gsd7sG7MWDK-14" value="Cloud run services" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-680" width="1040" height="770" as="geometry" />
+          <mxGeometry x="80" y="-680" width="980" height="390" as="geometry" />
         </mxCell>
-        <mxCell id="IR-27HBc0gsd7sG7MWDK-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Keyword_&lt;span style=&quot;background-color: initial;&quot;&gt;service&lt;/span&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Extract_primary_and_secondary_keywords_from-context(): List: Keywords&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-6" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Keyword_&lt;span style=&quot;background-color: initial;&quot;&gt;service&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Extract_primary_and_secondary_keywords_from-context(): List: Keywords&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="160" y="-600" width="350" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="IR-27HBc0gsd7sG7MWDK-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;Scraping_service&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get_website_content(): Content&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-370" width="350" height="90" as="geometry" />
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-5" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Scraping_service&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get_website_content(): Content&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="-430" width="350" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IR-27HBc0gsd7sG7MWDK-16" value="Cloud functions" style="shape=module;align=left;spacingLeft=20;align=center;verticalAlign=top;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="-680" width="620" height="390" as="geometry" />
@@ -40,7 +40,7 @@
             <mxPoint x="1230" y="-550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="IR-27HBc0gsd7sG7MWDK-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Google_analytics_service&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get_web_traffic(): Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ predict_visitors_count(): Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ identify_pages_to_be_optimised(): List: Page&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Analytics_service&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get_web_traffic_data(): Data&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ predict_visitors_count(): Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ identify_pages_to_be_optimised(): List: Page&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1220" y="-210" width="260" height="100" as="geometry" />
         </mxCell>
         <mxCell id="IR-27HBc0gsd7sG7MWDK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IR-27HBc0gsd7sG7MWDK-21" target="IR-27HBc0gsd7sG7MWDK-23">
@@ -54,6 +54,9 @@
             <mxPoint x="1300" y="-260" as="sourcePoint" />
             <mxPoint x="1460" y="-260" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-26" value="Database" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="290" y="-200" width="160" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
