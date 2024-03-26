@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-03-26T16:51:58.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="5C7eU7HqejQ4a3nyNylG" version="24.1.0" type="device">
+<mxfile host="Electron" modified="2024-03-26T16:58:19.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.1.0 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="aGzC1Mb8K713GQ4eDAeh" version="24.1.0" type="device">
   <diagram name="Page-1" id="FBYsdal8GXvZE6SGu7Mt">
-    <mxGraphModel dx="2232" dy="2294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1860" dy="2107" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,7 +17,7 @@
           <mxGeometry x="1160" y="-680" width="620" height="390" as="geometry" />
         </mxCell>
         <mxCell id="IR-27HBc0gsd7sG7MWDK-11" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;SERP_check_service&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get_SERP_position_data(): Data&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="1241" y="-600" width="160" height="90" as="geometry" />
+          <mxGeometry x="1241" y="-584" width="189" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IR-27HBc0gsd7sG7MWDK-9" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Keyword_optimization_service&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get_search_volume_data(): SeachVolumeDate&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ optimize_primary_and_secondary_keywords(): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="690" y="-600" width="294" height="90" as="geometry" />
@@ -38,6 +38,21 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="1070" y="-550" as="sourcePoint" />
             <mxPoint x="1230" y="-550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-21" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Google_analytics_service&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ get_web_traffic(): Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ predict_visitors_count(): Integer&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ identify_pages_to_be_optimised(): List: Page&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="-210" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IR-27HBc0gsd7sG7MWDK-21" target="IR-27HBc0gsd7sG7MWDK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-23" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Note&lt;/h1&gt;&lt;p&gt;Identify_pages_to_be_optimised method is based on page priority&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1640" y="-220" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="IR-27HBc0gsd7sG7MWDK-25" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.465;entryY=0.987;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.427;exitY=-0.003;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="IR-27HBc0gsd7sG7MWDK-21" target="IR-27HBc0gsd7sG7MWDK-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1300" y="-260" as="sourcePoint" />
+            <mxPoint x="1460" y="-260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
